@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { CameraBackground } from "../../components/CamaraBackground";
-import ModelSelector from "../../components/ModelSelector";
+import { CameraBackground } from "../../components/camaraBackground";
+import ModelSelector from "../../components/modelSelector";
 import ModelViewer from "../../components/modelViewer";
 
 const DecoratorPage = () => {
