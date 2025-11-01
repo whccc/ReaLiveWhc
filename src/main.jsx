@@ -1,6 +1,5 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import "@google/model-viewer";
 import "./styles/index.css";
 import ImageClassifierPage from "./feature/decorator/pages/image-classifier-page/index.jsx";
 
